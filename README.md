@@ -9,10 +9,10 @@ This repository contains the official implementation of the paper "[Your Paper T
 ---
 
 ## Dependencies  
-```bash
 torch>=1.8.0  
 torchvision>=0.9.0  
 numpy  
 matplotlib  
 
-We gratefully acknowledge the support and inspiration provided by the ConvIR repository (https://github.com/c-yn/ConvIR) for its foundational work on convolutional operations and codebase design. Special thanks to the authors for sharing their implementation, which facilitated the development of this project.
+## Results
+ We gratefully acknowledge the support and inspiration provided by the ConvIR repository (https://github.com/c-yn/ConvIR) for its foundational work on convolutional operations and codebase design. Special thanks to the authors for sharing their implementation, which facilitated the development of this project.
